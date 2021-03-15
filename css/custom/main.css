@@ -139,7 +139,7 @@ h6 {
 .back2top-btn {
 	position: fixed;
 	right: 20px;
-	bottom: 20px;
+	bottom: 80px;
 	z-index: 2;
 	display: none
 }
